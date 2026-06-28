@@ -36,3 +36,8 @@ The objective of this project is to store student information in a structured da
 ## Learning Outcome
 
 This project improved my understanding of database management, SQL query execution, and data analysis using structured datasets.
+## Output Screenshots
+
+![Student Table](screenshots/student-table-output.png)
+![Basic Operations 1](screenshots/student-table-basic-operation-output.png)
+![Basic Operations 2](screenshots/student-table-basic-operation2-output.png)
